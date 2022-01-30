@@ -1,0 +1,15 @@
+C:\Users\noahl\source\repos\Dice\Dice\bin\Debug\net6.0\Dice.exe
+C:\Users\noahl\source\repos\Dice\Dice\bin\Debug\net6.0\Dice.deps.json
+C:\Users\noahl\source\repos\Dice\Dice\bin\Debug\net6.0\Dice.runtimeconfig.json
+C:\Users\noahl\source\repos\Dice\Dice\bin\Debug\net6.0\Dice.dll
+C:\Users\noahl\source\repos\Dice\Dice\bin\Debug\net6.0\ref\Dice.dll
+C:\Users\noahl\source\repos\Dice\Dice\bin\Debug\net6.0\Dice.pdb
+C:\Users\noahl\source\repos\Dice\Dice\obj\Debug\net6.0\Dice.csproj.AssemblyReference.cache
+C:\Users\noahl\source\repos\Dice\Dice\obj\Debug\net6.0\Dice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noahl\source\repos\Dice\Dice\obj\Debug\net6.0\Dice.AssemblyInfoInputs.cache
+C:\Users\noahl\source\repos\Dice\Dice\obj\Debug\net6.0\Dice.AssemblyInfo.cs
+C:\Users\noahl\source\repos\Dice\Dice\obj\Debug\net6.0\Dice.csproj.CoreCompileInputs.cache
+C:\Users\noahl\source\repos\Dice\Dice\obj\Debug\net6.0\Dice.dll
+C:\Users\noahl\source\repos\Dice\Dice\obj\Debug\net6.0\ref\Dice.dll
+C:\Users\noahl\source\repos\Dice\Dice\obj\Debug\net6.0\Dice.pdb
+C:\Users\noahl\source\repos\Dice\Dice\obj\Debug\net6.0\Dice.genruntimeconfig.cache
